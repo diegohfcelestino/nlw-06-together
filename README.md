@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Letmeask" src="./letmeask/src/assets/images/sala.png" style="border-radius: 8px;" />
+	<img alt="Letmeask" src="./letmeask/src/assets/images/sala.png" style="border-radius: 15px;" />
 </h1>
 
 <p align="center">
@@ -82,7 +82,7 @@ Lembrando que você precisa ter uma conta no [Figma](https://figma.com/).
 
 ## :memo: Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo de[LICENÇA](LICENSE.md) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo de [LICENÇA](LICENSE.md) para obter detalhes.
 
 ## Autor
 
