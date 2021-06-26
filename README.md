@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Letmeask" src="./letmeask/src/assets/images/sala.png" width="800px" />
+	<img alt="Letmeask" src="./letmeask/src/assets/images/sala.png" />
 </h1>
 
 <p align="center">
