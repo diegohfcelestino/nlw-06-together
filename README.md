@@ -10,11 +10,13 @@
   <img src="https://img.shields.io/github/stars/diegohfcelestino/nlw-06-together?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 </p>
 
+<br/><br/><br/>
+
 <p align="center">
   <img alt="Letmeask" src="./letmeask/src/assets/images/logo.svg" >
 </p>
 
-<br>
+<br><br/><br/>
 
 <p align="center">
   <a href="#-acesso">Acesso</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
@@ -27,15 +29,17 @@
   <a href="#contatos">Contatos</a>
 </p>
 
+<br/><br/><br/><br/><br/>
+
 # Acesso
 
-Acesse a página da aplicação clicando [aqui](https://letmeask-47b7b.web.app/).
+Acesse a página da aplicação clicando [aqui](https://letmeask-47b7b.web.app/).<br/><br/>
 
 ## 💻 Projeto
 
 Letmeask é a aplicação perfeita para criadores de conteúdos interagirem com seus expectadores, de forma interativa e democrática, onde é possível elencar as perguntas mais importantes dando um like na mesma
 
-Este projeto foi desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021 pelo instrutor Diego Fernandes, CTO da \*\*[RocketSeat](https://rocketseat.com.br/).
+Este projeto foi desenvolvido durante a **[Next Level Week Together](https://nextlevelweek.com/)**, apresentada dos dias 20 a 27 de Junho de 2021 pelo instrutor Diego Fernandes, CTO da \*\*[RocketSeat](https://rocketseat.com.br/).<br/><br/>
 
 ## 🧪 Tecnologias
 
@@ -45,7 +49,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Firebase](https://firebase.google.com/)
 - [React](https://reactjs.org)
 
-Para mais detalhes, veja o **[package.json](./letmeask/package.json)**.
+Para mais detalhes, veja o **[package.json](./letmeask/package.json)**.<br/><br/>
 
 ## 🚀 Como executar
 
@@ -70,7 +74,7 @@ $ yarn start
 
 O app estará disponível no seu browser pelo endereço [http://localhost:3000](http://localhost:3000).
 
-Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/), um projeto para disponibilizar um Realtime Database e configurar para acessar.
+Lembrando que será necessário criar uma conta no [Firebase](https://firebase.google.com/), um projeto para disponibilizar um Realtime Database e configurar para acessar.<br/><br/>
 
 ## 🔖 Layout
 
@@ -78,15 +82,15 @@ Você pode visualizar o layout do projeto através do link abaixo:
 
 - [Layout Web](<https://www.figma.com/file/vY53yObNjlOTcyK1AyIRYV/Letmeask-(Copy)>)
 
-Lembrando que você precisa ter uma conta no [Figma](https://figma.com/).
+Lembrando que você precisa ter uma conta no [Figma](https://figma.com/).<br/><br/>
 
 ## :memo: Licença
 
-Este projeto está licenciado sob a Licença MIT. Consulte o arquivo de [LICENÇA](LICENSE.md) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo de [LICENÇA](LICENSE.md) para obter detalhes.<br/><br/>
 
 ## Autor
 
-<p align="center">Feito com 💜 e dedicação por Diego Henrique Ferreira</p>
+<p align="center">Feito com 💜 e dedicação por Diego Henrique Ferreira</p><br/><br/>
 
 ## Contatos
 
